@@ -91,7 +91,7 @@ span {
   color:red; 
   /*Ezután bővítsen!*/
   font-weight: bold;
-  text-transform: capitalize;
+  font-variant: small-caps;
 }
 
 
